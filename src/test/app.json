@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/sophier299/ps",
-  "repository": "https://github.com/sophier299/ps",
+  "website": "https://github.com/sophier299/ps/tree/main/src/test",
+  "repository": "https://github.com/sophier299/ps/tree/main/src/test",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
